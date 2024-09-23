@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodejutsu&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodejutsu" /> </p>
 
-- 🔭 I’m currently working on [Internship](Code Alpha)
+- 🔭 I’m currently have an Internship (Code Alpha)
 
 - 🌱 I’m currently learning **Angular**
 
