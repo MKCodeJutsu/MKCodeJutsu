@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=500&size=25&duration=2500&pause=1500&color=800F09&background=FFE7D800&center=true&vCenter=true&width=435&lines=Hello+Everyone%2C+My+Name+Is+Muhammed;a+Passionate+Web+Developer;Welcome+To+My+GitHub....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=500&size=50&duration=2500&pause=1500&color=800F09&background=FFE7D800&center=true&vCenter=true&width=435&lines=Hello+Everyone%2C+My+Name+Is+Muhammed;a+Passionate+Web+Developer;Welcome+To+My+GitHub....)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodejutsu&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodejutsu" /> </p>
 
