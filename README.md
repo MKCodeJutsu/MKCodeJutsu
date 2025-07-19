@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodejutsu&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodejutsu" /> </p>
   
-- 🎓 Currently Data Analytics scholarship trainee at Digilians (Egyptian Ministry of Communication & IT + Military Academy)  
+- 🎓 Currently Pursuing Data Analytics scholarship trainee at Digilians (Egyptian Ministry of Communication & IT + Military Academy)  
 - 🚀 Exploring roles in RPA (UiPath), Data Analysis, Business Analysis  
 - 🛠️ Hands-on experience in: HTML, CSS, JS, Python, SQL, Excel, Tableau, Power BI  
 - 🧠 Agile tools: Jira, Confluence   
