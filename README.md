@@ -35,12 +35,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/F/flutterflow-logo-A4AEDA343E-seeklogo.com.png" alt="flutterflow" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="uipath" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/id209IGdxm/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="flutterflow" width="40" height="40"/>
+  <img src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png" alt="uipath" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/480/power-bi-2021.png" alt="powerbi" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkcodejutsu&show_icons=true&locale=en&layout=compact" alt="mkcodejutsu" /></p>
